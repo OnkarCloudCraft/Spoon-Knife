@@ -1,0 +1,17 @@
+Git and GitHub Level 4 Practical
+
+Name: OnkarCloudCraft
+
+Topics Covered:
+1. Git Clone
+2. Git Fork
+3. Git Branch
+4. Git Add
+5. Git Commit
+6. Git Push
+7. Git Pull Request
+
+Platform: AWS EC2 Linux
+Version Control: Git and GitHub
+
+Practical Completed Successfully.
